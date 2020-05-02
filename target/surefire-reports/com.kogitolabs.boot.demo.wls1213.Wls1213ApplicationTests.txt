@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kogitolabs.boot.demo.wls1213.Wls1213ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.075 s - in com.kogitolabs.boot.demo.wls1213.Wls1213ApplicationTests
