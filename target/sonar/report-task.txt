@@ -1,6 +1,0 @@
-projectKey=com.kogitolabs.boot.demo:wls1213
-serverUrl=http://localhost:9000
-serverVersion=7.1.0.11001
-dashboardUrl=http://localhost:9000/dashboard/index/com.kogitolabs.boot.demo:wls1213
-ceTaskId=AXHWod6mpVyxFkEwgGhR
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXHWod6mpVyxFkEwgGhR
